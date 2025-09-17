@@ -21,14 +21,14 @@ mcp-card-reader/
 
 This project bridges magnetic stripe card readers with an MCP-compliant Flask API. It extracts first names from Track 1 data and exposes them via a structured endpoint for editorial, onboarding, or demo workflows.
 
-## Features
+## 🚀 Features
 - Serial card reader integration
 - MCP-compliant tool interface
 - Modular Flask architecture
 - Unit-tested parsing logic
 - Ready for containerization or cloud deployment
 
-## Usage
+## 🛠 Usage
 1. Connect your card reader via USB/Serial
 2. Run `python run.py`
 3. Swipe a card and POST to `/mcp` with tool `extract_first_name`
