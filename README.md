@@ -46,13 +46,13 @@ python client/send_request.py
 
 ## 🔐 Compliance
 
-No PAN or PII storage
+- No PAN or PII storage
 
-Track 1 parsing only
+- Track 1 parsing only
 
-Mock mode available for demos
+- Mock mode available for demos
 
-PCI DSS-aware architecture
+- PCI DSS-aware architecture
 
 ## 📡 MCP Request Example
 ```
