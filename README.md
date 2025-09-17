@@ -25,8 +25,8 @@ This project bridges magnetic stripe card readers with an MCP-compliant Flask AP
 ![Flask](https://img.shields.io/badge/Flask-v2.3.3-blue.svg?longCache=true&logo=flask&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a) 
 ![PySerial](https://img.shields.io/badge/PySerial-v3.5-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a) 
 ![MCP--Utils](https://img.shields.io/badge/MCP--Utils-v0.1.2-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a) 
-![Requests](https://img.shields.io/badge/Requests-v2.31.0-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a) !
-[Pytest](https://img.shields.io/badge/Pytest-v7.4.2-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+![Requests](https://img.shields.io/badge/Requests-v2.31.0-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a) 
+![Pytest](https://img.shields.io/badge/Pytest-v7.4.2-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
 
 
 ## 🚀 Features
