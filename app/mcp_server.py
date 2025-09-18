@@ -1,6 +1,9 @@
 from mcp_utils.core import MCPServer
+from queue import Queue
 
-mcp = MCPServer("card-reader", "1.0")
+response_queue = Queue()
+
+mcp = MCPServer("card-reader", "1.0", response_queue)
 
 @mcp.tool()
 def extract_first_name(track_data: str) -> str:
